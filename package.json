@@ -1,7 +1,7 @@
 {
   "name": "employee_database",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Click here for Deployed Site]()",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/michaelreyna25/employee_database/issues"
   },
-  "homepage": "https://github.com/michaelreyna25/employee_database#readme"
+  "homepage": "https://github.com/michaelreyna25/employee_database#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
 }
