@@ -2,12 +2,15 @@
 
 ## Description
 
+The Employee Database is a database that provides access to you company's employment information. You can add your own departments, roles, and employees. Click on the video link below to watch how the database is initialized.
+
 [Click here for Deployed Site]()
 
 
-## Images
+## Images/Videos
 
 ![image]()
+![video](./assets/Employee%20DataBase.mp4)
 
 ## Table of Contents 
 * [Usage](#usage)
@@ -23,8 +26,8 @@
 
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
-|     |  | 
-|      |       |   
+| MySql    |  | 
+|  Node.js    |       |   
 | Git |      |  
 
 
