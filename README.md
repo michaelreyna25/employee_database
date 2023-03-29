@@ -1,27 +1,32 @@
-# employee_database
-
-## Technology Used
-
-| Technology Used         | Resource URL           | 
-| ------------- |:-------------:| 
-| HTML    |  | 
-| CSS     |       |   
-| Git |      |  
+# Employee-Database
 
 ## Description
 
 [Click here for Deployed Site]()
 
 
+## Images
 
+![image]()
 
 ## Table of Contents 
-* [Code Examples](#code-examples)
 * [Usage](#usage)
+* [Technology Used](#technology-used)
 * [Learning Points](#learning-points)
 * [Author Info](#author-info)
 * [Credits](#credits)
 * [License](#license)
+
+## Usage
+
+## Technology Used
+
+| Technology Used         | Resource URL           | 
+| ------------- |:-------------:| 
+|     |  | 
+|      |       |   
+| Git |      |  
+
 
 ## Learning Points
 
@@ -30,14 +35,14 @@
 ## Author Info
 
 ### Michael Reyna
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/michael-reyna-35b597245/)
 
-[GitHub]()
+[GitHub](https://github.com/michaelreyna25)
 ## Credits 
 
 |Resource | Link |
 |-------|:-------:|
-|Scrollbar |  |
+| |  |
 |      |    |
 ## License
 MIT License
